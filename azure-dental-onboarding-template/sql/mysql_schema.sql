@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS dental_onboarding; USE dental_onboarding; /* full schema omitted here for brevity in code cell; included in earlier bundle */

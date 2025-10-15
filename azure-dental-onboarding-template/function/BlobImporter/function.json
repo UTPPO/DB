@@ -1,0 +1,1 @@
+{"scriptFile":"__init__.py","bindings":[{"name":"inputBlob","type":"blobTrigger","direction":"in","path":"gf-json/{name}","connection":"AzureWebJobsStorage"}]}

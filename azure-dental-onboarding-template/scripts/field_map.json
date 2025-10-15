@@ -1,0 +1,50 @@
+{
+  "first_name": [
+    "Licensure Name.first",
+    "101.3"
+  ],
+  "last_name": [
+    "Licensure Name.last",
+    "101.6"
+  ],
+  "gender": [
+    "Gender",
+    "102"
+  ],
+  "dob": [
+    "Date of Birth",
+    "103"
+  ],
+  "home_phone": [
+    "Home Phone",
+    "104"
+  ],
+  "birth_city": [
+    "Birth Place.city",
+    "105.3"
+  ],
+  "birth_state": [
+    "Birth Place.state",
+    "105.4"
+  ],
+  "license_type": [
+    "Is this a medical or dental license?",
+    "201"
+  ],
+  "license_state": [
+    "In which state are you licensed?",
+    "202"
+  ],
+  "license_number": [
+    "License Number",
+    "203"
+  ],
+  "license_issue": [
+    "Issue Date",
+    "204"
+  ],
+  "license_exp": [
+    "Expiration Date",
+    "205"
+  ]
+}
